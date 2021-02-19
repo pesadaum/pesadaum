@@ -2,9 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alef-santos/)](https://www.linkedin.com/in/alef-santos/)
 
-:bust_in_silhouette: Estudante de engenharia elétrica interessado em hardware de computadores, FGPA's, ASIC's, sistemas embarcados e integrados. Recentemente (2020+) muito interessado e focado em desenvolvimento web e mobile. Guitarrista e jogador de Mortal Kombat nas horas vagas.
+:bust_in_silhouette: Estudante de engenharia elétrica interessado em hardware de computadores, FGPA's, ASIC's, sistemas embarcados e integrados. Recentemente (2020+) muito interessado e focado em desenvolvimento web e mobile. Guitarrista, jogador de Mortal Kombat e aspirante à ciclista nas horas vagas.
 
-<img align="center" src="https://images.app.goo.gl/8GRQEK6DJJC8HRUf7">
+<img align="center" height="100" width="100" src="http://4.bp.blogspot.com/-PNM50bRjnBc/VQsT-0Ulo-I/AAAAAAAAOFk/EIMqAgVBVwc/s1600/Raiden%2B14.gif">
 
 
 :office: Atualmente sou pesquisador no CNPq com o projeto de pesquisa de carregador de baterias de íon-lítio sem fio integrado.
