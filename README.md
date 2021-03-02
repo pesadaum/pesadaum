@@ -27,6 +27,7 @@
   - Assembly (2017)
 
 ## Estou estudando
+Acompanhe minha trilha de estudos no [Notion](https://www.notion.so/pesadaum/Road-to-dev-5af6240a41ec4c5fab22a390dca962e9)
 - Flutter (2021)
 - Styled Components (2020)
 - React (2020)
