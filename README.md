@@ -8,10 +8,7 @@
 <p align="center">
 <img height="150" width="150" src="http://4.bp.blogspot.com/-PNM50bRjnBc/VQsT-0Ulo-I/AAAAAAAAOFk/EIMqAgVBVwc/s1600/Raiden%2B14.gif">
 <img height="150" width="150" src="http://2.bp.blogspot.com/-P0kcIJv71o4/VQsUAXv-HXI/AAAAAAAAOGM/QTgjKLsU-co/s1600/Raiden%2B16.gif">
-<img height="150" width="150" src="http://3.bp.blogspot.com/-oX96fMoc3GM/VSvlHSH2tLI/AAAAAAAAQpo/W67VQx6HM3o/s1600/Liu%2BKang%2Bem%2Buma%2Bbicicletainvisivel%2Bsem%2Bas%2Bm%C3%A3os.gif">
-
-
-	
+<img height="150" width="150" src="http://3.bp.blogspot.com/-oX96fMoc3GM/VSvlHSH2tLI/AAAAAAAAQpo/W67VQx6HM3o/s1600/Liu%2BKang%2Bem%2Buma%2Bbicicletainvisivel%2Bsem%2Bas%2Bm%C3%A3os.gif">	
 </p>
 
 :office: Atualmente sou pesquisador no CNPq com o projeto de pesquisa de carregador de baterias de íon-lítio sem fio integrado.
@@ -29,11 +26,10 @@
 ## Estou estudando
 Acompanhe minha trilha de estudos no [Notion](https://www.notion.so/pesadaum/Road-to-dev-5af6240a41ec4c5fab22a390dca962e9)
 - Flutter (2021)
-- Styled Components (2020)
 - React (2020)
 - React Native (2020)
 - HTML / CSS / JS (2020)
 
 ## Próximos estudos
 - NodeJS
-- SQL
+- MySQL
