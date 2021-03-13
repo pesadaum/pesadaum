@@ -13,7 +13,6 @@
 
 :office: Atualmente sou pesquisador no CNPq com o projeto de pesquisa de carregador de baterias de íon-lítio sem fio integrado.
 
-
 ## Estudo há mais tempo
 ##### Hardware:
   - Prototipagem de FPGA em Verilog e VHDL. (2019 -> presente).
@@ -29,7 +28,3 @@ Acompanhe minha trilha de estudos no [Notion](https://www.notion.so/pesadaum/Roa
 - React (2020)
 - React Native (2020)
 - HTML / CSS / JS (2020)
-
-## Próximos estudos
-- NodeJS
-- MySQL
