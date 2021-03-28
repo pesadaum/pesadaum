@@ -1,10 +1,7 @@
 # Alef de Oliveira Santos :zap: / :computer: / :iphone:
 
-
-<p align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alef-santos/)](https://www.linkedin.com/in/alef-santos/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alefdeoliveirasantos@gmail.com)](mailto:alefdeoliveirasantos@gmail.com)
-</p>  
 
 :bust_in_silhouette: Estudante de engenharia elétrica interessado em hardware de computadores, FGPA's, ASIC's, sistemas embarcados e integrados. Recentemente (2020+) muito interessado e focado em desenvolvimento web e mobile. Guitarrista, jogador de Mortal Kombat e aspirante à ciclista nas horas vagas.
 
