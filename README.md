@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alef-santos/)](https://www.linkedin.com/in/alef-santos/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alefdeoliveirasantos@gmail.com)](mailto:alefdeoliveirasantos@gmail.com)
 
-👨‍💼 🇧🇷 - Estudante de engenharia elétrica interessado em hardware de computadores, FGPA's, ASIC's, sistemas embarcados e integrados. Recentemente (de 2020 para frente) muito interessado e focado em desenvolvimento web e mobile. Guitarrista, jogador de Mortal Kombat e aspirante à ciclista nas horas vagas.
+👨‍💼 🇧🇷 - Estudante de engenharia de computação, transferido do curso de engenharia elétrica. Interessado em hardware de computadores, FGPA's, ASIC's, sistemas embarcados e integrados. Recentemente (de 2020 para frente) muito interessado e focado em desenvolvimento web e mobile. Guitarrista, jogador de Mortal Kombat e aspirante à ciclista nas horas vagas.
 
-👨‍💼 🇺🇸 - Electrical engineering student interested in computer hardware and general purpose electronics such as FPGA's, ASIC's, embedded and integrated systems. Recently (from 2020 onwards) very interested and focused in mobile and web development. Guitar player, Mortal Kombat player and cycling aspirant in spare time.
+👨‍💼 🇺🇸 - Computer engineering student, transferred from electrical engineering course. Interested in computer hardware and general purpose electronics such as FPGA's, ASIC's, embedded and integrated systems. Recently (from 2020 onwards) very interested and focused in mobile and web development. Guitar player, Mortal Kombat player and cycling aspirant in spare time.
 
 <p align="center">
 <img height="120" width="120" src="http://4.bp.blogspot.com/-PNM50bRjnBc/VQsT-0Ulo-I/AAAAAAAAOFk/EIMqAgVBVwc/s1600/Raiden%2B14.gif">
