@@ -29,7 +29,6 @@
   - Assembly (2017)
 
 ## Estou estudando / Studying
-Acompanhe minha trilha de estudos no [Notion](https://www.notion.so/pesadaum/Road-to-dev-5af6240a41ec4c5fab22a390dca962e9) / Follow my studies at [Notion](https://www.notion.so/pesadaum/Road-to-dev-5af6240a41ec4c5fab22a390dca962e9) (Portuguese only).
 - Dart + Flutter (2021)
 - Firebase (2021)
 - PostgreSQL (2021)
