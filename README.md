@@ -30,5 +30,5 @@
 
 ## Estou estudando / Studying
 - Dart + Flutter (2021)
-- Firebase (2021)
 - PostgreSQL (2021)
+- Node
