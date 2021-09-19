@@ -20,15 +20,11 @@
 ## Tenho experiência / Experienced with
 
 ##### Hardware:
-  - Prototipagem de FPGA em Verilog e VHDL. (2019 -> presente) / FPGA Prototyping with Verilog and VHDL (2019 -> current)
-  - Design, projeto e testes de sistemas eletrônicos integrados em VLSI e tecnologias TSMC. (2018 -> presente) / Design, project and test of integrated electronics systems in VLSI and TSMC's technologies. (2018 -> current)
-  - Prototipagem de sistemas eletrônicos analógicos e digitais em PCB's (2017 - 2020). /  Prototyping of analog and digital systems in PCB's (2017 - 2020)
+  - Prototipagem de FPGA em Verilog e VHDL. (2019 -> presente) / FPGA Prototyping with Verilog and VHDL (2019 -> currently)
+  - Design, projeto e testes de sistemas eletrônicos analógicos e digitais (2018 -> presente) / Design, project and test of analog and digital electronics systems (2018 -> currently)
+  - Prototipagem de sistemas eletrônicos analógicos e digitais em PCB's (2017 - 2020). /  Prototyping of analog and digital systems in PCB's (2017 -> 2020)
 
 ##### Software:
-  - C/C++ (2018 -> presente / current)
+  - C/C++ (2018 -> presente / currently)
   - Assembly (2017)
-
-## Estou estudando / Studying
-- Dart + Flutter (2021)
-- PostgreSQL (2021)
-- Node
+  - Octave (2020 -> presente / currently)
