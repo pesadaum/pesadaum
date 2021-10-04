@@ -16,15 +16,3 @@
 🏢 🇧🇷 - Eu sou atualmente pesquisador no CNPq com o projeto de pesquisa de carregador de baterias de íon-lítio sem fio integrado.
 
 🏢 🇺🇸 - I am currently a researcher at CNPq with the integrated wireless lithium-ion battery charger research project.
-
-## Tenho experiência / Experienced with
-
-##### Hardware:
-  - Prototipagem de FPGA em Verilog e VHDL. (2019 -> presente) / FPGA Prototyping with Verilog and VHDL (2019 -> currently)
-  - Design, projeto e testes de sistemas eletrônicos analógicos e digitais (2018 -> presente) / Design, project and test of analog and digital electronics systems (2018 -> currently)
-  - Prototipagem de sistemas eletrônicos analógicos e digitais em PCB's (2017 - 2020). /  Prototyping of analog and digital systems in PCB's (2017 -> 2020)
-
-##### Software:
-  - C/C++ (2018 -> presente / currently)
-  - Assembly (2017)
-  - Octave (2020 -> presente / currently)
