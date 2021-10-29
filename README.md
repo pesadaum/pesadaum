@@ -17,9 +17,10 @@
 
 🏢 🇺🇸 - I am currently a researcher at CNPq with the integrated wireless lithium-ion battery charger research project.
 
-<a href="https://github.com/pesadaum">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pesadaum&layout=compact&theme=synthwave"
-    />
-</a>
+<p align="center">
+    <a href="https://github.com/pesadaum">
+        <img
+          align="center"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=pesadaum&layout=compact"/>
+    </a>
+</p>
