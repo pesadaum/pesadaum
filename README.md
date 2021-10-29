@@ -16,3 +16,10 @@
 🏢 🇧🇷 - Eu sou atualmente pesquisador no CNPq com o projeto de pesquisa de carregador de baterias de íon-lítio sem fio integrado.
 
 🏢 🇺🇸 - I am currently a researcher at CNPq with the integrated wireless lithium-ion battery charger research project.
+
+<a href="https://github.com/pesadaum">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pesadaum&layout=compact&theme=synthwave"
+    />
+</a>
