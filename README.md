@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alef-santos/)](https://www.linkedin.com/in/alef-santos/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alefdeoliveirasantos@gmail.com)](mailto:alefdeoliveirasantos@gmail.com)
 
-👨‍💼 🇧🇷 - Estudante de engenharia de computação, transferido do curso de engenharia elétrica. Interessado em hardware de computadores, design digital em FGPA's, ASIC's, sistemas embarcados e circuitos integrados. Também interessado em RPA e EDA, ciência de dados, aprendizado de máquina e áreas correlatas. Guitarrista, jogador de Mortal Kombat e aspirante à ciclista no tempo livre.
+👨‍💼 🇧🇷 - Estudante de engenharia de computação. Interessado em hardware de computadores, design digital em FGPA's, ASIC's, sistemas embarcados e circuitos integrados. Também interessado em RPA, ciência de dados, aprendizado de máquina e áreas correlatas. Guitarrista, jogador de Mortal Kombat e aspirante à ciclista no tempo livre.
 
-👨‍💼 🇺🇸 - Computer engineering student, transferred from electrical engineering course. Interested in computer hardware, digital desing in FPGA's, ASIC's, embedded systems and integrated circuits. Also interested RPA and EDA, data science, machine learning and related areas.  Guitar player, Mortal Kombat player and cycling aspirant in spare time.
+👨‍💼 🇺🇸 - Computer engineering student. Interested in computer hardware, digital desing in FPGA's, ASIC's, embedded systems and integrated circuits. Also interested RPA, data science, machine learning and related areas. Guitar player, Mortal Kombat player and cycling aspirant in spare time.
 
 <p align="center">
     <img height="120" width="120" src="http://4.bp.blogspot.com/-PNM50bRjnBc/VQsT-0Ulo-I/AAAAAAAAOFk/EIMqAgVBVwc/s1600/Raiden%2B14.gif">
@@ -15,11 +15,10 @@
 
 Atualmente estou estudando / Currently I am studying:
 
-* Design e Layout de CI's analógicos / Analog IC design and layout
-* Generalized Low Rank Models (GLRM)
-* Python, C++
-* Scikit-learn
-* TensorFlow, Keras
+* Design e Layout de CI's analógicos com Cadence Virtuoso / Analog IC design and layout with Cadence Virtuoso
+* Verificação funcional de CI's digitais em Verilog e SystemVerilog com Cadence XCelium / Functional verification of digital IC in Verilog and SystemVerilog with Cadence XCelium
+* UVM (Metodologia de Verificação Universal) / UVM (Universal Verification Methodology)
+* Python, C++, Shell/Linux
 
 <p align="center">
     <a href="https://github.com/pesadaum">
