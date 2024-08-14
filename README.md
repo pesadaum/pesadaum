@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alef-santos/)](https://www.linkedin.com/in/alef-santos/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alefdeoliveirasantos@gmail.com)](mailto:alefdeoliveirasantos@gmail.com)
 
-👨‍💼 🇧🇷 - Estudante de engenharia de computação. Interessado em hardware de computadores, design digital em FGPA's, ASIC's, sistemas embarcados e circuitos integrados. Também interessado em RPA, ciência de dados, aprendizado de máquina e áreas correlatas. Guitarrista, jogador de Mortal Kombat e aspirante à ciclista no tempo livre.
+👨‍💼 🇧🇷 - Estudante de engenharia de computação. Interessado em hardware de computadores, design digital em FPGA's, ASIC's, sistemas embarcados e circuitos integrados. Também interessado em RPA, ciência de dados, aprendizado de máquina e áreas correlatas. Guitarrista, jogador de Mortal Kombat e aspirante à ciclista no tempo livre.
 
 👨‍💼 🇺🇸 - Computer engineering student. Interested in computer hardware, digital desing in FPGA's, ASIC's, embedded systems and integrated circuits. Also interested RPA, data science, machine learning and related areas. Guitar player, Mortal Kombat player and cycling aspirant in spare time.
 
