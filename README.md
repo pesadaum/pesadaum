@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alef-santos/)](https://www.linkedin.com/in/alef-santos/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alefdeoliveirasantos@gmail.com)](mailto:alefdeoliveirasantos@gmail.com)
 
-Digital ASIC and FPGA engineer @ Embraer. Guitar player, Mortal Kombat player and cycling aspirant in spare time.
+Digital ASIC and FPGA engineer @ Cadence. Guitar player, Mortal Kombat player and cycling aspirant in spare time.
 
 <p align="center">
     <img height="120" width="120" src="http://4.bp.blogspot.com/-PNM50bRjnBc/VQsT-0Ulo-I/AAAAAAAAOFk/EIMqAgVBVwc/s1600/Raiden%2B14.gif">
